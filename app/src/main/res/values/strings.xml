@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">StoreAdmin</string>
+    <string name="action_settings">Settings</string>
+    <string name="mJSONURL_location">https://agile-wildwood-34684.herokuapp.com/api/locations</string>
+    <string name="su_email">Enter Email (abc@xyz.com)</string>
+    <string name="su_first_name">Enter First Name</string>
+    <string name="su_middle_name">Enter Middle Name</string>
+    <string name="su_last_name">Enter Last Name</string>
+    <string name="su_phone">Enter Mobile</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="su_aadhar_id">Enter Aadhar ID</string>
+    <string name="su_password">Crate Password</string>
+    <string name="su_employee_id">Enter Employee ID</string>
+
+    <string name="mJSONURL_store">https://agile-wildwood-34684.herokuapp.com/api/stores</string>
+    <string name="mJSONURL_employee">https://agile-wildwood-34684.herokuapp.com/api/employees</string>
+    <string name="mJSONURL_attendance">https://agile-wildwood-34684.herokuapp.com/api/attendancestore</string>
+    <string name="mJSONURL_taskd">https://agile-wildwood-34684.herokuapp.com/api/taskd</string>
+    <string name="mJSONURL_taskw">https://agile-wildwood-34684.herokuapp.com/api/taskw</string>
+    <string name="mJSONURL_tasko">https://agile-wildwood-34684.herokuapp.com/api/tasko</string>
+    <string name="mJSONURL_appli">https://agile-wildwood-34684.herokuapp.com/api/applistore</string>
+    <string name="mJSONURL_notifb">https://agile-wildwood-34684.herokuapp.com/api/notifb</string>
+    <string name="mJSONURL_notife">https://agile-wildwood-34684.herokuapp.com/api/notife</string>
+    <string name="mJSONURL_stroster">https://agile-wildwood-34684.herokuapp.com/api/storeroster</string>
+    <string name="mJSONURL_emproster">https://agile-wildwood-34684.herokuapp.com/api/emproster</string>
+    <string name="mJSONURL_teams">https://agile-wildwood-34684.herokuapp.com/api/teams</string>
+    <string name="title_activity_application_notif_view">ApplicationNotifViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_approve">Accept</string>
+    <string name="su_designation">Employee Designation</string>
+    <string name="su_team">Team</string>
+    <string name="team_name_tv">Team Name</string>
+    <string name="su_team_name">teamname</string>
+    <string name="manager_tv">Manager</string>
+    <string name="su_manager_et">manager</string>
+    <string name="action_edit">Edit</string>
+    <string name="su_first_name_ne">First Name</string>
+    <string name="su_middle_name_ne">Middle Name</string>
+    <string name="su_last_name_ne">Last Name</string>
+    <string name="su_phone_ne">Phone</string>
+    <string name="su_email_ne">Email</string>
+    <string name="su_aadhar_id_ne">AddharId</string>
+    <string name="su_employee_id_ne">EmployeeID</string>
+    <string name="su_designation_ed">Enter Employee Designation</string>
+</resources>
