@@ -9,7 +9,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    tools:context="com.digitalhomeland.inventorymanager.UnapprovedView"
+    tools:context="com.digitalhomeland.organizer.UnapprovedView"
     android:weightSum="1">
 
     <LinearLayout

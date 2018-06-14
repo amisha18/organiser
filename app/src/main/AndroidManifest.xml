@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.digitalhomeland.inventorymanager">
+    package="com.digitalhomeland.organizer">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -17,21 +17,21 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
-        <activity android:name="com.digitalhomeland.inventorymanager.DashboardActivity" >
+        <activity android:name="com.digitalhomeland.organizer.DashboardActivity" >
 
         </activity>
-        <activity android:name="com.digitalhomeland.inventorymanager.LandingActivity">
+        <activity android:name="com.digitalhomeland.organizer.LandingActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.digitalhomeland.inventorymanager.SignupActivity" />
-        <activity android:name="com.digitalhomeland.inventorymanager.UnapprovedView" />
-        <activity android:name="com.digitalhomeland.inventorymanager.EmployeeApproval" />
-        <activity android:name="com.digitalhomeland.inventorymanager.TeamView" />
-        <activity android:name="com.digitalhomeland.inventorymanager.EditTeam">
+        <activity android:name="com.digitalhomeland.organizer.SignupActivity" />
+        <activity android:name="com.digitalhomeland.organizer.UnapprovedView" />
+        <activity android:name="com.digitalhomeland.organizer.EmployeeApproval" />
+        <activity android:name="com.digitalhomeland.organizer.TeamView" />
+        <activity android:name="com.digitalhomeland.organizer.EditTeam">
 
         </activity>
     </application>
